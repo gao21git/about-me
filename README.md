@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Andrey Golovatch.
-- 👀 I’m interested in Data Science and developing programs with Python.
-- 🌱 I’m currently learning how to create Web sites with Django. 
-- 💞️ I’m looking to collaborate on creating Web page and application with help of which I can share common SQL database which other users can use and modify.
+- 👀 I’m interested in Data Science and Web Development.
+- 💞️ I’m looking to collaborate on creating Web page and application for creating Master Data inside my company. 
 - 📫 How to reach me with my email agolovach7@gmail.com
 
 <!---
